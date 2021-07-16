@@ -7,25 +7,14 @@ The purpose of the project was to reanalyze the academic performance of students
 ## Results
 
 - District Summary
-
 The district summary was largely unaffected, with each score metric of the new analysis being within 0.3 points of the original analysis.
-
 Original District Summary:
-
-![district-summary-original](Resources/original-analysis-images/district-summary-original.png)
-
+![district_summary_original](Resources/original-analysis-images/district_summary_original.png)
 New District Summary:
-
-![district-summary-new](Resources/new-analysis-images/district-summary-new.png)
-
+![district_summary_new](Resources/new-analysis-images/district_summary_new.png)
 - School Summary
-
 - Thomas High School
-
 - Math and Reading Scores by Grade
-
 - Scores by School Spending
-
 - Scores by School Size
-
 - Scores by School Type
