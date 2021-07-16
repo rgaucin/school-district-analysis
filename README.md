@@ -16,9 +16,9 @@ New District Summary:
 - **School Summary:** The overall passing rankings of the schools remained unchanged. Thomas High School is still the second best performing school, though its overall passing percentage did drop about 0.3 points, from 90.95% to 90.63%.
 
 Original School Summary:
-![school_summary_original](Resources/original-analysis-images/school_summary_original.png)
+![school_summary_original](Resources/original-analysis-images/per_school_summary_original.png)
 New School Summary:
-![school_summary_new](Resources/new-analysis-images/school_summary_new.png)
+![school_summary_new](Resources/new-analysis-images/per_school_summary_new.png)
 
 - **Thomas High School:** As just pointed out, Thomas High School's overall passing percentage dropped only 0.3 points. Likewise, its average math score, average reading score, and passing math percentage all remain about the same between analyses. Its passing reading percentage, however, fell over 4 points, from 97.3% to 93.2%.
 - **Math and Reading Scores by Grade:** Since the removed scores only belonged to the ninth grade of Thomas High School, no other grades from the school or scores from any other school were affected.
