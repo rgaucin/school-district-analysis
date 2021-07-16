@@ -8,6 +8,7 @@ The purpose of the project was to reanalyze the academic performance of students
 
 - District Summary
 The district summary was largely unaffected, with each score metric of the new analysis being within 0.3 points of the original analysis.
+
 Original District Summary:
 ![district_summary_original](Resources/original-analysis-images/district_summary_original.png)
 New District Summary:
